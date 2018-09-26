@@ -9,3 +9,14 @@ C:\Users\Janne\Desktop\Koulu\Ohjelmoinnin perusteet\dev\IF\ConsoleApp1\ConsoleAp
 C:\Users\Janne\Desktop\Koulu\Ohjelmoinnin perusteet\dev\IF\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
 C:\Users\Janne\Desktop\Koulu\Ohjelmoinnin perusteet\dev\IF\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
 C:\Users\Janne\Desktop\Koulu\Ohjelmoinnin perusteet\dev\IF\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\janne\OneDrive\Työpöytä\Koulu\dev\conditiontasks\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

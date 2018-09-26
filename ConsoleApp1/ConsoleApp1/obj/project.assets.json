@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Janne\\.nuget\\packages\\": {},
+    "C:\\Users\\janne\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janne\\Desktop\\Koulu\\Ohjelmoinnin perusteet\\dev\\IF\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\janne\\OneDrive\\Työpöytä\\Koulu\\dev\\conditiontasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Janne\\Desktop\\Koulu\\Ohjelmoinnin perusteet\\dev\\IF\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Janne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Janne\\Desktop\\Koulu\\Ohjelmoinnin perusteet\\dev\\IF\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\janne\\OneDrive\\Työpöytä\\Koulu\\dev\\conditiontasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\janne\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\janne\\OneDrive\\Työpöytä\\Koulu\\dev\\conditiontasks\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Janne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\janne\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
