@@ -9,7 +9,7 @@ namespace ConsoleApp5
             Console.WriteLine("Maatalousnäyttelyn lipunhinta: ");
             Console.WriteLine("Asiakasryhmät: Normaali, Alle 7v, 65v tai yli, 7-15v, Mtk jäsen, Varusmies, Opiskelija, Mtk+opiskelija");
 
-            Console.Write("Anna asiakastiedot: ");
+            Console.Write("Anna asiakasryhmä: ");
 
             string userInput = Console.ReadLine();
 
